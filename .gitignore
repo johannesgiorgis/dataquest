@@ -1,0 +1,9 @@
+# folders
+certificates/
+**/takeaways/
+downloads/
+**/.ipynb_checkpoints/
+
+# files
+**/.DS_Store
+
