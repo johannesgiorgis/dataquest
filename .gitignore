@@ -1,7 +1,7 @@
 # folders
 certificates/
 **/takeaways/
-downloads/
+**/downloads/
 **/.ipynb_checkpoints/
 
 # files
