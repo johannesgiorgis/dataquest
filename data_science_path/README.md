@@ -5,7 +5,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 ## Data Scientist Path
 
 - [x] 1/9 Python Introduction
-- [ ] 2/9 Data Analysis and Visualization
+- [x] 2/9 Data Analysis and Visualization
 - [ ] 3/9 The Command Line
 - [ ] 4/9 Working with Data Sources
 - [ ] 5/9 Probability and Statistics
@@ -24,4 +24,4 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 - [x] 05 Visualizing Earnings Based on College Majors
 - [x] 06 Visualizing the Gender Gap in College Degrees
 - [x] 07 Analyzing NYC High School Data
-- [ ] 08 Star Wars Survey
+- [x] 08 Star Wars Survey
