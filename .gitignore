@@ -3,6 +3,7 @@ certificates/
 **/takeaways/
 **/downloads/
 **/.ipynb_checkpoints/
+**/downloaded_projects/
 
 # files
 **/.DS_Store
