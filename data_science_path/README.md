@@ -25,3 +25,4 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 - [x] 06 Visualizing the Gender Gap in College Degrees
 - [x] 07 Analyzing NYC High School Data
 - [x] 08 Star Wars Survey
+- [x] 09 Working with Data Downloads
