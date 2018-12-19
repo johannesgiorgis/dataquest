@@ -6,7 +6,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 
 - [x] 1/9 Python Introduction
 - [x] 2/9 Data Analysis and Visualization
-- [ ] 3/9 The Command Line
+- [x] 3/9 The Command Line
 - [ ] 4/9 Working with Data Sources
 - [ ] 5/9 Probability and Statistics
 - [ ] 6/9 Machine Learning
