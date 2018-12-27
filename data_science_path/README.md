@@ -27,6 +27,6 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 - [x] 08 Star Wars Survey
 - [x] 09 Working with Data Downloads
 - [x] 10 Transforming data with Python
-- [ ] 11 Analyzing CIA Factbook Data Using SQLite and Python
+- [x] 11 Analyzing CIA Factbook Data Using SQLite and Python
 - [ ] 12 Answering Business Questions using SQL
 - [ ] 13 Designing and Creating a Database
