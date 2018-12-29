@@ -2,31 +2,108 @@
 
 This contains my notes and projects as I work though [DataQuest's Data Science Path](https://www.dataquest.io/path/data-scientist)
 
-## Data Scientist Path
+<!-- MarkdownTOC -->
 
-- [x] 1/9 Python Introduction
-- [x] 2/9 Data Analysis and Visualization
-- [x] 3/9 The Command Line
-- [ ] 4/9 Working with Data Sources
-- [ ] 5/9 Probability and Statistics
-- [ ] 6/9 Machine Learning
-- [ ] 7/9 Advanced Python and Computer Science
-- [ ] 8/9 Advanced Topics in Data Science
-- [ ] 9/9 Working with Large Datasets
+- [Data Scientist Summary Path Summary](#data-scientist-summary-path-summary)
+- [Data Scientist Detailed Path](#data-scientist-detailed-path)
+- [Guided Projects](#guided-projects)
+
+<!-- /MarkdownTOC -->
 
 
+
+<a id="data-scientist-summary-path-summary"></a>
+## Data Scientist Summary Path Summary
+
+|            Status           	|   #   |             Section                    |
+|:-----------------------------:|:-----:|:--------------------------------------:|
+| ![Completed][Completed]     	|  1	| Python Introduction                    |
+| ![Completed][Completed]     	|  2  	| Data Analysis and Visualization        |
+| ![Completed][Completed]     	|  3  	| The Command Line                       |
+| ![In Progress][In Progress]	|  4  	| Working with Data Sources              |
+| ![Soon][Soon]               	|  5  	| Probability and Statistics             |
+| ![Soon][Soon]               	|  6  	| Machine Learning                       |
+| ![Soon][Soon]               	|  7  	| Advanced Python and Computer Science   |
+| ![Soon][Soon]               	|  8  	| Advanced Topics in Data Science        |
+| ![Soon][Soon]               	|  9  	| Working with Large Datasets            |
+
+
+<a id="data-scientist-detailed-path"></a>
+## Data Scientist Detailed Path
+
+|         Status              	|                  Course          						|
+|:-----------------------------:|:-----------------------------------------------------:|
+| ![Completed][Completed]     	| Python Programming: Beginner                  		|
+| ![Completed][Completed]     	| Python Programming: Intermediate 						|
+| ![Completed][Completed]     	| Pandas and NumPy Fundamentals 						|
+| ![Completed][Completed]     	| Exploratory Data Visualization 						|
+| ![Completed][Completed]     	| Storytelling Through Data Visualization 				|
+| ![Completed][Completed]     	| Data Cleaning 										|
+| ![Completed][Completed]     	| Command Line: Beginner 								|
+| ![Completed][Completed]     	| Command Line: Intermediate 							|
+| ![Completed][Completed]     	| Git and Version Control 								|
+| ![Completed][Completed]     	| SQL Fundamentals 										|
+| ![In Progress][In Progress] 	| SQL Intermediate: Table Relations and Joins  			|
+| ![Soon][Soon]               	| SQL and Databases: Advanced 							|
+| ![Soon][Soon]               	| APIs and Web Scraping 								|
+| ![Soon][Soon]               	| Statistics Fundamentals 								|
+| ![Soon][Soon]               	| Statistics Intermediate: Averages & Variability		|
+| ![Soon][Soon]               	| Probability & Statistics in Python: Intermediate  	|
+| ![Soon][Soon]               	| Machine Learning Fundamentals 					  	|
+| ![Soon][Soon]               	| Calculus for Machine Learning 					  	|
+| ![Soon][Soon]               	| Linear Algebra for Machine Learning 					|
+| ![Soon][Soon]               	| Linear Regression for Machine Learning 				|
+| ![Soon][Soon]               	| Machine Learning in Python: Intermediate 				|
+| ![Soon][Soon]               	| Decision Trees 										|
+| ![Soon][Soon]               	| Deep Learning Fundamentals 							|
+| ![Soon][Soon]               	| Machine Learning Project 								|
+| ![Soon][Soon]               	| Data Structures and Algorithms 						|
+| ![Soon][Soon]               	| Python Programming: Advanced 							|
+| ![Soon][Soon]               	| Kaggle Fundamentals 									|
+| ![Soon][Soon]               	| Exploring Topics in Data Science 						|
+| ![Soon][Soon]               	| Natural Language Processing 							|
+| ![Soon][Soon]               	| Spark and Map-Reduce 									|
+
+
+<a id="guided-projects"></a>
 ## Guided Projects
 
-- [x] 01 Using Jupyter Notebook
-- [x] 02 Explore U.S. Births
-- [x] 03 Exploring Gun Deaths in the US
-- [x] 04 Exploring Ebay Car Sales Data
-- [x] 05 Visualizing Earnings Based on College Majors
-- [x] 06 Visualizing the Gender Gap in College Degrees
-- [x] 07 Analyzing NYC High School Data
-- [x] 08 Star Wars Survey
-- [x] 09 Working with Data Downloads
-- [x] 10 Transforming data with Python
-- [x] 11 Analyzing CIA Factbook Data Using SQLite and Python
-- [ ] 12 Answering Business Questions using SQL
-- [ ] 13 Designing and Creating a Database
+|            Status           	|               Section                             	|
+|:-----------------------------:|:------------------------------------------------------|
+| ![Completed][Completed]     	| [Using Jupyter Notebook]                            	|
+| ![Completed][Completed]     	| [Explore U.S. Births]                               	|
+| ![Completed][Completed]     	| [Exploring Gun Deaths in the US]                    	|
+| ![Completed][Completed]     	| [Exploring Ebay Car Sales Data]                     	|
+| ![Completed][Completed]     	| [Visualizing Earnings Based on College Majors]      	|
+| ![Completed][Completed]     	| [Visualizing the Gender Gap in College Degrees]     	|
+| ![Completed][Completed]     	| [Analyzing NYC High School Data]                    	|
+| ![Completed][Completed]     	| [Star Wars Survey]                                  	|
+| ![Completed][Completed]     	| [Working with Large Datasets]                       	|
+| ![Completed][Completed]     	| [Transforming data with Python]                     	|
+| ![Completed][Completed]     	| [Analyzing CIA Factbook Data Using SQLite & Python] 	|
+| ![In Progress][In Progress]	| [Answering Business Questions using SQL]            	|
+| ![Soon][Soon]               	| Designing and Creating a Database                 	|
+
+[//]: # (Reference links to Guided Projects)
+
+[Using Jupyter Notebook]: project01_using_jupyter_notebook/project01_using_jupyter_notebook.ipynb
+[Explore U.S. Births]: project02_explore_us_births/project02_explore_us_births.ipynb
+[Exploring Gun Deaths in the US]: project03_exploring_gun_deaths_in_the_us/project03_exploring_gun_deaths_in_the_us.ipynb
+[Exploring Ebay Car Sales Data]: project04_exploring_ebay_car_sales_data/project04_exploring_ebay_car_sales_data.ipynb
+[Visualizing Earnings Based on College Majors]: project05_visualizing_earnings_based_on_college_majors/project05_visualizing_earnings_based_on_college_majors.ipynb
+[Visualizing the Gender Gap in College Degrees]: project06_visualizing_the_gender_gap_in_college_degrees/project06_visualizing_the_gender_gap_in_college_degrees.ipynb
+[Analyzing NYC High School Data]: project07_analyzing_nyc_high_school_data/project07_analyzing_nyc_high_school_data.ipynb
+[Star Wars Survey]: project08_star_wars_survey/project08_star_wars_survey.ipynb
+[Working with Large Datasets]: project09_working_with_data_downloads/README.md
+[Transforming data with Python]: project10_transforming_data_with_python/README.md
+[Analyzing CIA Factbook Data Using SQLite & Python]: project11_analyzing_cia_factbook_data_using_sqlite_and_python/project11_analyzing_cia_factbook_data_using_sqlite_and_python.ipynb
+[Answering Business Questions using SQL]: project12_answering_business_questions_using_sql/project12_answering_business_questions_using_sql.ipynb
+
+
+[//]: # (Status images)
+
+[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
+[Completed]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Completed"
+[In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
+[Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
+
