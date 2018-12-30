@@ -2,6 +2,8 @@
 
 This contains my notes and projects as I work though [DataQuest's Data Science Path](https://www.dataquest.io/path/data-scientist)
 
+[Data Science Path NBViewer](http://nbviewer.jupyter.org/github/johannesgiorgis/dataquest/tree/master/data_science_path/)
+
 <!-- MarkdownTOC -->
 
 - [Data Scientist Summary Path Summary](#data-scientist-summary-path-summary)
