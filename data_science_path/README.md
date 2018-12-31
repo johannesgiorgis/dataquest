@@ -83,7 +83,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]     	| [Working with Large Datasets]                       	|
 | ![Completed][Completed]     	| [Transforming data with Python]                     	|
 | ![Completed][Completed]     	| [Analyzing CIA Factbook Data Using SQLite & Python] 	|
-| ![In Progress][In Progress]	| [Answering Business Questions using SQL]            	|
+| ![Completed][Completed]		| [Answering Business Questions using SQL]            	|
 | ![Soon][Soon]               	| Designing and Creating a Database                 	|
 
 [//]: # (Reference links to Guided Projects)
