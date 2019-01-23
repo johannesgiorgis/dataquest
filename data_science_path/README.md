@@ -6,15 +6,14 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 
 <!-- MarkdownTOC -->
 
-- [Data Scientist Summary Path Summary](#data-scientist-summary-path-summary)
-- [Data Scientist Detailed Path](#data-scientist-detailed-path)
-- [Guided Projects](#guided-projects)
+- Data Scientist Summary Path Summary
+- Data Scientist Detailed Path
+- Guided Projects
 
 <!-- /MarkdownTOC -->
 
 
 
-<a id="data-scientist-summary-path-summary"></a>
 ## Data Scientist Summary Path Summary
 
 |            Status           	|   #   |             Section                    |
@@ -30,7 +29,6 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Soon][Soon]               	|  9  	| Working with Large Datasets            |
 
 
-<a id="data-scientist-detailed-path"></a>
 ## Data Scientist Detailed Path
 
 |         Status              	|                  Course          						|
@@ -67,7 +65,6 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Soon][Soon]               	| Spark and Map-Reduce 									|
 
 
-<a id="guided-projects"></a>
 ## Guided Projects
 
 |            Status           	|               Section                             	|
@@ -86,20 +83,21 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]		| [Answering Business Questions using SQL]            	|
 | ![Soon][Soon]               	| Designing and Creating a Database                 	|
 
+
 [//]: # (Reference links to Guided Projects)
 
-[Using Jupyter Notebook]: project01_using_jupyter_notebook/project01_using_jupyter_notebook.ipynb
-[Explore U.S. Births]: project02_explore_us_births/project02_explore_us_births.ipynb
-[Exploring Gun Deaths in the US]: project03_exploring_gun_deaths_in_the_us/project03_exploring_gun_deaths_in_the_us.ipynb
-[Exploring Ebay Car Sales Data]: project04_exploring_ebay_car_sales_data/project04_exploring_ebay_car_sales_data.ipynb
-[Visualizing Earnings Based on College Majors]: project05_visualizing_earnings_based_on_college_majors/project05_visualizing_earnings_based_on_college_majors.ipynb
-[Visualizing the Gender Gap in College Degrees]: project06_visualizing_the_gender_gap_in_college_degrees/project06_visualizing_the_gender_gap_in_college_degrees.ipynb
-[Analyzing NYC High School Data]: project07_analyzing_nyc_high_school_data/project07_analyzing_nyc_high_school_data.ipynb
-[Star Wars Survey]: project08_star_wars_survey/project08_star_wars_survey.ipynb
-[Working with Large Datasets]: project09_working_with_data_downloads/README.md
-[Transforming data with Python]: project10_transforming_data_with_python/README.md
-[Analyzing CIA Factbook Data Using SQLite & Python]: project11_analyzing_cia_factbook_data_using_sqlite_and_python/project11_analyzing_cia_factbook_data_using_sqlite_and_python.ipynb
-[Answering Business Questions using SQL]: project12_answering_business_questions_using_sql/project12_answering_business_questions_using_sql.ipynb
+[Using Jupyter Notebook]: projects/project01_using_jupyter_notebook/project01_using_jupyter_notebook.ipynb
+[Explore U.S. Births]: projects/project02_explore_us_births/project02_explore_us_births.ipynb
+[Exploring Gun Deaths in the US]: projects/project03_exploring_gun_deaths_in_the_us/project03_exploring_gun_deaths_in_the_us.ipynb
+[Exploring Ebay Car Sales Data]: projects/project04_exploring_ebay_car_sales_data/project04_exploring_ebay_car_sales_data.ipynb
+[Visualizing Earnings Based on College Majors]: projects/project05_visualizing_earnings_based_on_college_majors/project05_visualizing_earnings_based_on_college_majors.ipynb
+[Visualizing the Gender Gap in College Degrees]: projects/project06_visualizing_the_gender_gap_in_college_degrees/project06_visualizing_the_gender_gap_in_college_degrees.ipynb
+[Analyzing NYC High School Data]: projects/project07_analyzing_nyc_high_school_data/project07_analyzing_nyc_high_school_data.ipynb
+[Star Wars Survey]: projects/project08_star_wars_survey/project08_star_wars_survey.ipynb
+[Working with Large Datasets]: projects/project09_working_with_data_downloads/README.md
+[Transforming data with Python]: projects/project10_transforming_data_with_python/README.md
+[Analyzing CIA Factbook Data Using SQLite & Python]: projects/project11_analyzing_cia_factbook_data_using_sqlite_and_python/project11_analyzing_cia_factbook_data_using_sqlite_and_python.ipynb
+[Answering Business Questions using SQL]: projects/project12_answering_business_questions_using_sql/project12_answering_business_questions_using_sql.ipynb
 
 
 [//]: # (Status images)
