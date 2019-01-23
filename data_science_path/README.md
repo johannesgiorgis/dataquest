@@ -81,7 +81,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]     	| [Transforming data with Python]                     	|
 | ![Completed][Completed]     	| [Analyzing CIA Factbook Data Using SQLite & Python] 	|
 | ![Completed][Completed]		| [Answering Business Questions using SQL]            	|
-| ![In Progress][In Progress]	| Designing and Creating a Database                 	|
+| ![In Progress][In Progress]	| [Designing and Creating a Database]                 	|
 | ![Soon][Soon]					| Investigating Fandango Movie Ratings					|
 | ![Soon][Soon]					| Finding the Best Markets to Advertise In				|
 | ![Soon][Soon]					| Winning Jeopardy										|
@@ -110,6 +110,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 [Transforming data with Python]: projects/project10_transforming_data_with_python/README.md
 [Analyzing CIA Factbook Data Using SQLite & Python]: projects/project11_analyzing_cia_factbook_data_using_sqlite_and_python/project11_analyzing_cia_factbook_data_using_sqlite_and_python.ipynb
 [Answering Business Questions using SQL]: projects/project12_answering_business_questions_using_sql/project12_answering_business_questions_using_sql.ipynb
+[Designing and Creating a Database]: projects/project13_designing_and_creating_a_database/project13_designing_and_creating_a_database.ipynb
 
 
 [//]: # (Status images)
