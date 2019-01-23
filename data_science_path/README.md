@@ -22,7 +22,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]     	|  2  	| Data Analysis and Visualization        |
 | ![Completed][Completed]     	|  3  	| The Command Line                       |
 | ![In Progress][In Progress]	|  4  	| Working with Data Sources              |
-| ![Soon][Soon]               	|  5  	| Probability and Statistics             |
+| ![In Progress][In Progress]	|  5  	| Probability and Statistics             |
 | ![Soon][Soon]               	|  6  	| Machine Learning                       |
 | ![Soon][Soon]               	|  7  	| Advanced Python and Computer Science   |
 | ![Soon][Soon]               	|  8  	| Advanced Topics in Data Science        |
@@ -44,25 +44,25 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]     	| Git and Version Control 								|
 | ![Completed][Completed]     	| SQL Fundamentals 										|
 | ![In Progress][In Progress] 	| SQL Intermediate: Table Relations and Joins  			|
-| ![Soon][Soon]               	| SQL and Databases: Advanced 							|
-| ![Soon][Soon]               	| APIs and Web Scraping 								|
-| ![Soon][Soon]               	| Statistics Fundamentals 								|
-| ![Soon][Soon]               	| Statistics Intermediate: Averages & Variability		|
-| ![Soon][Soon]               	| Probability & Statistics in Python: Intermediate  	|
-| ![Soon][Soon]               	| Machine Learning Fundamentals 					  	|
-| ![Soon][Soon]               	| Calculus for Machine Learning 					  	|
-| ![Soon][Soon]               	| Linear Algebra for Machine Learning 					|
-| ![Soon][Soon]               	| Linear Regression for Machine Learning 				|
-| ![Soon][Soon]               	| Machine Learning in Python: Intermediate 				|
-| ![Soon][Soon]               	| Decision Trees 										|
-| ![Soon][Soon]               	| Deep Learning Fundamentals 							|
-| ![Soon][Soon]               	| Machine Learning Project 								|
-| ![Soon][Soon]               	| Data Structures and Algorithms 						|
-| ![Soon][Soon]               	| Python Programming: Advanced 							|
-| ![Soon][Soon]               	| Kaggle Fundamentals 									|
-| ![Soon][Soon]               	| Exploring Topics in Data Science 						|
-| ![Soon][Soon]               	| Natural Language Processing 							|
-| ![Soon][Soon]               	| Spark and Map-Reduce 									|
+| ![Completed][Completed]	  	| SQL and Databases: Advanced 							|
+| ![Completed][Completed]		| APIs and Web Scraping 								|
+| ![In Progress][In Progress]	| Statistics Fundamentals 								|
+| ![Soon][Soon]					| Statistics Intermediate: Averages & Variability		|
+| ![Soon][Soon]					| Probability & Statistics in Python: Intermediate  	|
+| ![Soon][Soon]					| Machine Learning Fundamentals 					  	|
+| ![Soon][Soon]					| Calculus for Machine Learning 					  	|
+| ![Soon][Soon]					| Linear Algebra for Machine Learning 					|
+| ![Soon][Soon]					| Linear Regression for Machine Learning 				|
+| ![Soon][Soon]					| Machine Learning in Python: Intermediate 				|
+| ![Soon][Soon]					| Decision Trees 										|
+| ![Soon][Soon]					| Deep Learning Fundamentals 							|
+| ![Soon][Soon]					| Machine Learning Project 								|
+| ![Soon][Soon]					| Data Structures and Algorithms 						|
+| ![Soon][Soon]					| Python Programming: Advanced 							|
+| ![Soon][Soon]					| Kaggle Fundamentals 									|
+| ![Soon][Soon]					| Exploring Topics in Data Science 						|
+| ![Soon][Soon]					| Natural Language Processing 							|
+| ![Soon][Soon]					| Spark and Map-Reduce 									|
 
 
 ## Guided Projects
@@ -81,7 +81,19 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]     	| [Transforming data with Python]                     	|
 | ![Completed][Completed]     	| [Analyzing CIA Factbook Data Using SQLite & Python] 	|
 | ![Completed][Completed]		| [Answering Business Questions using SQL]            	|
-| ![Soon][Soon]               	| Designing and Creating a Database                 	|
+| ![In Progress][In Progress]	| Designing and Creating a Database                 	|
+| ![Soon][Soon]					| Investigating Fandango Movie Ratings					|
+| ![Soon][Soon]					| Finding the Best Markets to Advertise In				|
+| ![Soon][Soon]					| Winning Jeopardy										|
+| ![Soon][Soon]					| Predicting Car Prices									|
+| ![Soon][Soon]					| Predicting House Sale Prices							|
+| ![Soon][Soon]					| Predicting the Stock Market							|
+| ![Soon][Soon]					| Predicting Bike Rentals								|
+| ![Soon][Soon]					| Building A Handwritten Digits Classifier				|
+| ![Soon][Soon]					| ML Project: Data Cleaning								|
+| ![Soon][Soon]					| ML Project: Preparing the Features					|
+| ![Soon][Soon]					| ML Project: Making Predictions						|
+
 
 
 [//]: # (Reference links to Guided Projects)
