@@ -6,14 +6,15 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 
 <!-- MarkdownTOC -->
 
-- Data Scientist Summary Path Summary
-- Data Scientist Detailed Path
-- Guided Projects
+- [Data Scientist Summary Path Summary](#data-scientist-summary-path-summary)
+- [Data Scientist Detailed Path](#data-scientist-detailed-path)
+- [Guided Projects](#guided-projects)
 
 <!-- /MarkdownTOC -->
 
 
 
+<a id="data-scientist-summary-path-summary"></a>
 ## Data Scientist Summary Path Summary
 
 |            Status           	|   #   |             Section                    |
@@ -29,6 +30,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Soon][Soon]               	|  9  	| Working with Large Datasets            |
 
 
+<a id="data-scientist-detailed-path"></a>
 ## Data Scientist Detailed Path
 
 |         Status              	|                  Course          						|
@@ -65,6 +67,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Soon][Soon]					| Spark and Map-Reduce 									|
 
 
+<a id="guided-projects"></a>
 ## Guided Projects
 
 |            Status           	|               Section                             	|
@@ -82,7 +85,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]     	| [Analyzing CIA Factbook Data Using SQLite & Python] 	|
 | ![Completed][Completed]		| [Answering Business Questions using SQL]            	|
 | ![In Progress][In Progress]	| [Designing and Creating a Database]                 	|
-| ![Soon][Soon]					| Investigating Fandango Movie Ratings					|
+| ![In Progress][In Progress]	| [Investigating Fandango Movie Ratings]				|
 | ![Soon][Soon]					| Finding the Best Markets to Advertise In				|
 | ![Soon][Soon]					| Winning Jeopardy										|
 | ![Soon][Soon]					| Predicting Car Prices									|
@@ -111,6 +114,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 [Analyzing CIA Factbook Data Using SQLite & Python]: projects/project11_analyzing_cia_factbook_data_using_sqlite_and_python/project11_analyzing_cia_factbook_data_using_sqlite_and_python.ipynb
 [Answering Business Questions using SQL]: projects/project12_answering_business_questions_using_sql/project12_answering_business_questions_using_sql.ipynb
 [Designing and Creating a Database]: projects/project13_designing_and_creating_a_database/project13_designing_and_creating_a_database.ipynb
+[Investigating Fandango Movie Ratings]: projects/project14_investigating_fandango_movie_ratings/project14_investigating_fandango_movie_ratings.ipynb
 
 
 [//]: # (Status images)
