@@ -48,8 +48,8 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![In Progress][In Progress] 	| SQL Intermediate: Table Relations and Joins  			|
 | ![Completed][Completed]	  	| SQL and Databases: Advanced 							|
 | ![Completed][Completed]		| APIs and Web Scraping 								|
-| ![In Progress][In Progress]	| Statistics Fundamentals 								|
-| ![Soon][Soon]					| Statistics Intermediate: Averages & Variability		|
+| ![Completed][Completed]		| Statistics Fundamentals 								|
+| ![In Progress][In Progress]	| Statistics Intermediate: Averages & Variability		|
 | ![Soon][Soon]					| Probability & Statistics in Python: Intermediate  	|
 | ![Soon][Soon]					| Machine Learning Fundamentals 					  	|
 | ![Soon][Soon]					| Calculus for Machine Learning 					  	|
@@ -85,7 +85,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]     	| [Analyzing CIA Factbook Data Using SQLite & Python] 	|
 | ![Completed][Completed]		| [Answering Business Questions using SQL]            	|
 | ![In Progress][In Progress]	| [Designing and Creating a Database]                 	|
-| ![In Progress][In Progress]	| [Investigating Fandango Movie Ratings]				|
+| ![Complete][Complete]			| [Investigating Fandango Movie Ratings]				|
 | ![Soon][Soon]					| Finding the Best Markets to Advertise In				|
 | ![Soon][Soon]					| Winning Jeopardy										|
 | ![Soon][Soon]					| Predicting Car Prices									|
