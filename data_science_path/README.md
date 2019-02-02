@@ -96,7 +96,8 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Soon][Soon]					| ML Project: Data Cleaning								|
 | ![Soon][Soon]					| ML Project: Preparing the Features					|
 | ![Soon][Soon]					| ML Project: Making Predictions						|
-
+| ![Soon][Soon]					| Investigating Airplane Accidents						|
+| ![Soon][Soon]					| Creating a Kaggle Workflow							|
 
 
 [//]: # (Reference links to Guided Projects)
