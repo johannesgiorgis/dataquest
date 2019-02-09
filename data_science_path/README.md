@@ -6,15 +6,14 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 
 <!-- MarkdownTOC -->
 
-- [Data Scientist Summary Path Summary](#data-scientist-summary-path-summary)
-- [Data Scientist Detailed Path](#data-scientist-detailed-path)
-- [Guided Projects](#guided-projects)
+- Data Scientist Summary Path Summary
+- Data Scientist Detailed Path
+- Guided Projects
 
 <!-- /MarkdownTOC -->
 
 
 
-<a id="data-scientist-summary-path-summary"></a>
 ## Data Scientist Summary Path Summary
 
 |            Status           	|   #   |             Section                    |
@@ -30,7 +29,6 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Soon][Soon]               	|  9  	| Working with Large Datasets            |
 
 
-<a id="data-scientist-detailed-path"></a>
 ## Data Scientist Detailed Path
 
 |         Status              	|                  Course          						|
@@ -67,7 +65,6 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Soon][Soon]					| Spark and Map-Reduce 									|
 
 
-<a id="guided-projects"></a>
 ## Guided Projects
 
 |            Status           	|               Section                             	|
@@ -86,7 +83,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]		| [Answering Business Questions using SQL]            	|
 | ![In Progress][In Progress]	| [Designing and Creating a Database]                 	|
 | ![Completed][Completed]		| [Investigating Fandango Movie Ratings]				|
-| ![Soon][Soon]					| Finding the Best Markets to Advertise In				|
+| ![Soon][Soon]					| [Finding the Best Markets to Advertise In]			|
 | ![Soon][Soon]					| Winning Jeopardy										|
 | ![Soon][Soon]					| Predicting Car Prices									|
 | ![Soon][Soon]					| Predicting House Sale Prices							|
@@ -116,7 +113,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 [Answering Business Questions using SQL]: projects/project12_answering_business_questions_using_sql/project12_answering_business_questions_using_sql.ipynb
 [Designing and Creating a Database]: projects/project13_designing_and_creating_a_database/project13_designing_and_creating_a_database.ipynb
 [Investigating Fandango Movie Ratings]: projects/project14_investigating_fandango_movie_ratings/project14_investigating_fandango_movie_ratings.ipynb
-
+[Finding the Best Markets to Advertise In]: projects/project15_finding_the_best_markets_to_advertise_in/project15_finding_the_best_markets_to_advertise_in.ipynb
 
 [//]: # (Status images)
 
