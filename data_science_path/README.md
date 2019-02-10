@@ -6,14 +6,15 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 
 <!-- MarkdownTOC -->
 
-- Data Scientist Summary Path Summary
-- Data Scientist Detailed Path
-- Guided Projects
+- [Data Scientist Summary Path Summary](#data-scientist-summary-path-summary)
+- [Data Scientist Detailed Path](#data-scientist-detailed-path)
+- [Guided Projects](#guided-projects)
 
 <!-- /MarkdownTOC -->
 
 
 
+<a id="data-scientist-summary-path-summary"></a>
 ## Data Scientist Summary Path Summary
 
 |            Status           	|   #   |             Section                    |
@@ -29,6 +30,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Soon][Soon]               	|  9  	| Working with Large Datasets            |
 
 
+<a id="data-scientist-detailed-path"></a>
 ## Data Scientist Detailed Path
 
 |         Status              	|                  Course          						|
@@ -65,6 +67,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Soon][Soon]					| Spark and Map-Reduce 									|
 
 
+<a id="guided-projects"></a>
 ## Guided Projects
 
 |            Status           	|               Section                             	|
@@ -83,7 +86,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]		| [Answering Business Questions using SQL]            	|
 | ![In Progress][In Progress]	| [Designing and Creating a Database]                 	|
 | ![Completed][Completed]		| [Investigating Fandango Movie Ratings]				|
-| ![Soon][Soon]					| [Finding the Best Markets to Advertise In]			|
+| ![In Progress][In Progress]	| [Finding the Best Markets to Advertise In]			|
 | ![Soon][Soon]					| Winning Jeopardy										|
 | ![Soon][Soon]					| Predicting Car Prices									|
 | ![Soon][Soon]					| Predicting House Sale Prices							|
