@@ -6,15 +6,14 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 
 <!-- MarkdownTOC -->
 
-- [Data Scientist Summary Path Summary](#data-scientist-summary-path-summary)
-- [Data Scientist Detailed Path](#data-scientist-detailed-path)
-- [Guided Projects](#guided-projects)
+- Data Scientist Summary Path Summary
+- Data Scientist Detailed Path
+- Guided Projects
 
 <!-- /MarkdownTOC -->
 
 
 
-<a id="data-scientist-summary-path-summary"></a>
 ## Data Scientist Summary Path Summary
 
 |            Status           	|   #   |             Section                    |
@@ -22,7 +21,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]     	|  1	| Python Introduction                    |
 | ![Completed][Completed]     	|  2  	| Data Analysis and Visualization        |
 | ![Completed][Completed]     	|  3  	| The Command Line                       |
-| ![In Progress][In Progress]	|  4  	| Working with Data Sources              |
+| ![Completed][Completed]		|  4  	| Working with Data Sources              |
 | ![In Progress][In Progress]	|  5  	| Probability and Statistics             |
 | ![Soon][Soon]               	|  6  	| Machine Learning                       |
 | ![Soon][Soon]               	|  7  	| Advanced Python and Computer Science   |
@@ -30,7 +29,6 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Soon][Soon]               	|  9  	| Working with Large Datasets            |
 
 
-<a id="data-scientist-detailed-path"></a>
 ## Data Scientist Detailed Path
 
 |         Status              	|                  Course          						|
@@ -45,7 +43,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]     	| Command Line: Intermediate 							|
 | ![Completed][Completed]     	| Git and Version Control 								|
 | ![Completed][Completed]     	| SQL Fundamentals 										|
-| ![In Progress][In Progress] 	| SQL Intermediate: Table Relations and Joins  			|
+| ![Completed][Completed] 		| SQL Intermediate: Table Relations and Joins  			|
 | ![Completed][Completed]	  	| SQL and Databases: Advanced 							|
 | ![Completed][Completed]		| APIs and Web Scraping 								|
 | ![Completed][Completed]		| Statistics Fundamentals 								|
@@ -67,7 +65,6 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Soon][Soon]					| Spark and Map-Reduce 									|
 
 
-<a id="guided-projects"></a>
 ## Guided Projects
 
 |            Status           	|               Section                             	|
@@ -84,9 +81,9 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]     	| [Transforming data with Python]                     	|
 | ![Completed][Completed]     	| [Analyzing CIA Factbook Data Using SQLite & Python] 	|
 | ![Completed][Completed]		| [Answering Business Questions using SQL]            	|
-| ![In Progress][In Progress]	| [Designing and Creating a Database]                 	|
+| ![Completed][Completed]		| [Designing and Creating a Database]                 	|
 | ![Completed][Completed]		| [Investigating Fandango Movie Ratings]				|
-| ![In Progress][In Progress]	| [Finding the Best Markets to Advertise In]			|
+| ![Completed][Completed]		| [Finding the Best Markets to Advertise In]			|
 | ![Soon][Soon]					| Winning Jeopardy										|
 | ![Soon][Soon]					| Predicting Car Prices									|
 | ![Soon][Soon]					| Predicting House Sale Prices							|
