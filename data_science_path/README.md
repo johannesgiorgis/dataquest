@@ -22,7 +22,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]     	|  2  	| Data Analysis and Visualization        |
 | ![Completed][Completed]     	|  3  	| The Command Line                       |
 | ![Completed][Completed]		|  4  	| Working with Data Sources              |
-| ![In Progress][In Progress]	|  5  	| Probability and Statistics             |
+| ![Completed][Completed]		|  5  	| Probability and Statistics             |
 | ![Soon][Soon]               	|  6  	| Machine Learning                       |
 | ![Soon][Soon]               	|  7  	| Advanced Python and Computer Science   |
 | ![Soon][Soon]               	|  8  	| Advanced Topics in Data Science        |
@@ -48,7 +48,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]		| APIs and Web Scraping 								|
 | ![Completed][Completed]		| Statistics Fundamentals 								|
 | ![Completed][Completed]		| Statistics Intermediate: Averages & Variability		|
-| ![In Progress][In Progress]	| Probability & Statistics in Python: Intermediate  	|
+| ![Completed][Completed]		| Probability & Statistics in Python: Intermediate  	|
 | ![Soon][Soon]					| Machine Learning Fundamentals 					  	|
 | ![Soon][Soon]					| Calculus for Machine Learning 					  	|
 | ![Soon][Soon]					| Linear Algebra for Machine Learning 					|
@@ -84,7 +84,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]		| [Designing and Creating a Database]                 	|
 | ![Completed][Completed]		| [Investigating Fandango Movie Ratings]				|
 | ![Completed][Completed]		| [Finding the Best Markets to Advertise In]			|
-| ![Soon][Soon]					| Winning Jeopardy										|
+| ![Completed][Completed]		| [Winning Jeopardy]									|
 | ![Soon][Soon]					| Predicting Car Prices									|
 | ![Soon][Soon]					| Predicting House Sale Prices							|
 | ![Soon][Soon]					| Predicting the Stock Market							|
@@ -114,6 +114,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 [Designing and Creating a Database]: projects/project13_designing_and_creating_a_database/project13_designing_and_creating_a_database.ipynb
 [Investigating Fandango Movie Ratings]: projects/project14_investigating_fandango_movie_ratings/project14_investigating_fandango_movie_ratings.ipynb
 [Finding the Best Markets to Advertise In]: projects/project15_finding_the_best_markets_to_advertise_in/project15_finding_the_best_markets_to_advertise_in.ipynb
+[Winning Jeopardy]: projects/project16_winning_jeopardy/project16_winning_jeopardy.ipynb
 
 [//]: # (Status images)
 
