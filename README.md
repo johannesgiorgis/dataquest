@@ -17,4 +17,4 @@ _Roadmaps_
 [Data Engineer Path]: https://www.dataquest.io/path/data-engineer
 [Data Science Path]: https://www.dataquest.io/path/data-scientist
 [My Data Science Roadmap]: data_science_path/README.md
-[My Data Engineer Roadmap]: data_science_path/README.md
+[My Data Engineer Roadmap]: data_engineer_path/README.md
