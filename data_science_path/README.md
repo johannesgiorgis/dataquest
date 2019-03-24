@@ -26,7 +26,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Soon][Soon]               	|  6  	| Machine Learning                       |
 | ![Soon][Soon]               	|  7  	| Advanced Python and Computer Science   |
 | ![Soon][Soon]               	|  8  	| Advanced Topics in Data Science        |
-| ![In Progress][In Progress] 	|  9  	| Working with Large Datasets            |
+| ![Completed][Completed] 		|  9  	| Working with Large Datasets            |
 
 
 ## Data Scientist Detailed Path
@@ -62,7 +62,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Soon][Soon]					| Kaggle Fundamentals 									|
 | ![Soon][Soon]					| Exploring Topics in Data Science 						|
 | ![Soon][Soon]					| Natural Language Processing 							|
-| ![In Progress][In Progress]	| Spark and Map-Reduce 									|
+| ![Completed][Completed] 		| Spark and Map-Reduce 									|
 
 
 ## Guided Projects
