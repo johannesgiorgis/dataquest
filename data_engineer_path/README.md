@@ -18,7 +18,7 @@ This contains my notes and projects as I work though [DataQuest's Data Engineer 
 
 |            Status           	|   #   |             Section					|
 |:-----------------------------:|:-----:|:-------------------------------------:|
-| ![Soon][Soon]     			|  1	| Production Databases                  |
+| ![In Progress][In Progress] 	|  1	| Production Databases                  |
 | ![Soon][Soon]     			|  2  	| Handling Large Data Sets in Python	|
 | ![Soon][Soon] 			   	|  3  	| Data Pipelines						|
 
@@ -27,7 +27,7 @@ This contains my notes and projects as I work though [DataQuest's Data Engineer 
 
 |         Status              	|                  Course          					|
 |:-----------------------------:|:-------------------------------------------------:|
-| ![Soon][Soon]					| Postgres for Data Engineers 					  	|
+| ![In Progress][In Progress]	| Postgres for Data Engineers 					  	|
 | ![Soon][Soon]					| Optimizing Postgres Databases					  	|
 | ![Soon][Soon]					| Processing Large Datasets in Pandas 				|
 | ![Soon][Soon]					| Optimizing Code Performance On Large Datasets 	|
