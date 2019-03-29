@@ -24,7 +24,7 @@ This contains my notes and projects as I work though [DataQuest's Data Engineer 
 |         Status              	|                  Course          					|
 |:-----------------------------:|:-------------------------------------------------:|
 | ![In Progress][In Progress]	| Postgres for Data Engineers 					  	|
-| ![Soon][Soon]					| Optimizing Postgres Databases					  	|
+| ![In Progress][In Progress]	| Optimizing Postgres Databases					  	|
 | ![Soon][Soon]					| Processing Large Datasets in Pandas 				|
 | ![Soon][Soon]					| Optimizing Code Performance On Large Datasets 	|
 | ![Soon][Soon]					| Algorithms and Data Structures					|
@@ -36,7 +36,7 @@ This contains my notes and projects as I work though [DataQuest's Data Engineer 
 
 |            Status           	|               Section                             		|
 |:-----------------------------:|:----------------------------------------------------------|
-| ![In Progress][In Progress]	| Storing Storm Data										|
+| ![In Progress][In Progress]	| [Storing Storm Data]										|
 | ![Soon][Soon]					| Practice Optimizing Dataframes and Processing in Chunks	|
 | ![Soon][Soon]					| Analyzing Startup Fundraising Deals from Crunchbase		|
 | ![Soon][Soon]					| Analyzing Wikipedia Pages									|
@@ -46,6 +46,8 @@ This contains my notes and projects as I work though [DataQuest's Data Engineer 
 
 
 [//]: # (Reference links to Guided Projects)
+
+[Storing Storm Data]: projects/project01_storing_storm_data/project01_storing_storm_data.ipynb
 
 [//]: # (Status images)
 
