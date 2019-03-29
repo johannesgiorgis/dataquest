@@ -4,13 +4,9 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 
 [Data Science Path NBViewer](http://nbviewer.jupyter.org/github/johannesgiorgis/dataquest/tree/master/data_science_path/)
 
-<!-- MarkdownTOC -->
-
 - Data Scientist Summary Path Summary
 - Data Scientist Detailed Path
 - Guided Projects
-
-<!-- /MarkdownTOC -->
 
 
 

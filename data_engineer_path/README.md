@@ -4,13 +4,9 @@ This contains my notes and projects as I work though [DataQuest's Data Engineer 
 
 [Data Engineer Path NBViewer](http://nbviewer.jupyter.org/github/johannesgiorgis/dataquest/tree/master/data_engineer_path/)
 
-<!-- MarkdownTOC -->
-
 - Data Engineer Summary Path Summary
 - Data Engineer Detailed Path
 - Guided Projects
-
-<!-- /MarkdownTOC -->
 
 
 
@@ -40,7 +36,7 @@ This contains my notes and projects as I work though [DataQuest's Data Engineer 
 
 |            Status           	|               Section                             		|
 |:-----------------------------:|:----------------------------------------------------------|
-| ![Soon][Soon]					| Storing Storm Data										|
+| ![In Progress][In Progress]	| Storing Storm Data										|
 | ![Soon][Soon]					| Practice Optimizing Dataframes and Processing in Chunks	|
 | ![Soon][Soon]					| Analyzing Startup Fundraising Deals from Crunchbase		|
 | ![Soon][Soon]					| Analyzing Wikipedia Pages									|
