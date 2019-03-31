@@ -24,7 +24,7 @@ This contains my notes and projects as I work though [DataQuest's Data Engineer 
 |         Status              	|                  Course          					|
 |:-----------------------------:|:-------------------------------------------------:|
 | ![In Progress][In Progress]	| Postgres for Data Engineers 					  	|
-| ![In Progress][In Progress]	| Optimizing Postgres Databases					  	|
+| ![Completed][Completed]		| Optimizing Postgres Databases					  	|
 | ![Soon][Soon]					| Processing Large Datasets in Pandas 				|
 | ![Soon][Soon]					| Optimizing Code Performance On Large Datasets 	|
 | ![Soon][Soon]					| Algorithms and Data Structures					|
