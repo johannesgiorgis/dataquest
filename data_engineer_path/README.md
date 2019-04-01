@@ -14,8 +14,8 @@ This contains my notes and projects as I work though [DataQuest's Data Engineer 
 
 |            Status           	|   #   |             Section					|
 |:-----------------------------:|:-----:|:-------------------------------------:|
-| ![In Progress][In Progress] 	|  1	| Production Databases                  |
-| ![Soon][Soon]     			|  2  	| Handling Large Data Sets in Python	|
+| ![Completed][Completed] 	 	|  1	| Production Databases                  |
+| ![In Progress][In Progress] 	|  2  	| Handling Large Data Sets in Python	|
 | ![Soon][Soon] 			   	|  3  	| Data Pipelines						|
 
 
@@ -23,9 +23,9 @@ This contains my notes and projects as I work though [DataQuest's Data Engineer 
 
 |         Status              	|                  Course          					|
 |:-----------------------------:|:-------------------------------------------------:|
-| ![In Progress][In Progress]	| Postgres for Data Engineers 					  	|
+| ![Completed][Completed] 		| Postgres for Data Engineers 					  	|
 | ![Completed][Completed]		| Optimizing Postgres Databases					  	|
-| ![Soon][Soon]					| Processing Large Datasets in Pandas 				|
+| ![In Progress][In Progress] 	| Processing Large Datasets in Pandas 				|
 | ![Soon][Soon]					| Optimizing Code Performance On Large Datasets 	|
 | ![Soon][Soon]					| Algorithms and Data Structures					|
 | ![Soon][Soon]					| Recursion and Trees 								|
@@ -36,7 +36,7 @@ This contains my notes and projects as I work though [DataQuest's Data Engineer 
 
 |            Status           	|               Section                             		|
 |:-----------------------------:|:----------------------------------------------------------|
-| ![In Progress][In Progress]	| [Storing Storm Data]										|
+| ![Completed][Completed] 		| [Storing Storm Data]										|
 | ![Soon][Soon]					| Practice Optimizing Dataframes and Processing in Chunks	|
 | ![Soon][Soon]					| Analyzing Startup Fundraising Deals from Crunchbase		|
 | ![Soon][Soon]					| Analyzing Wikipedia Pages									|
