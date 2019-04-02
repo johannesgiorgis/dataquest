@@ -37,7 +37,7 @@ This contains my notes and projects as I work though [DataQuest's Data Engineer 
 |            Status           	|               Section                             		|
 |:-----------------------------:|:----------------------------------------------------------|
 | ![Completed][Completed] 		| [Storing Storm Data]										|
-| ![Soon][Soon]					| Practice Optimizing Dataframes and Processing in Chunks	|
+| ![In Progress][In Progress]	| [Practice Optimizing Dataframes and Processing in Chunks]	|
 | ![Soon][Soon]					| Analyzing Startup Fundraising Deals from Crunchbase		|
 | ![Soon][Soon]					| Analyzing Wikipedia Pages									|
 | ![Soon][Soon]					| Analyzing Stock Prices									|
@@ -48,6 +48,7 @@ This contains my notes and projects as I work though [DataQuest's Data Engineer 
 [//]: # (Reference links to Guided Projects)
 
 [Storing Storm Data]: projects/project01_storing_storm_data/project01_storing_storm_data.ipynb
+[Practice Optimizing Dataframes and Processing in Chunks]: projects/project02_practice_optimizing_dataframes_and_processing_in_chunks/project02_practice_optimizing_dataframes_and_processing_in_chunks.ipynb
 
 [//]: # (Status images)
 
