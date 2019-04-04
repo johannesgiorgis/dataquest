@@ -37,7 +37,7 @@ This contains my notes and projects as I work though [DataQuest's Data Engineer 
 |            Status           	|               Section                             		|
 |:-----------------------------:|:----------------------------------------------------------|
 | ![Completed][Completed] 		| [Storing Storm Data]										|
-| ![In Progress][In Progress]	| [Practice Optimizing Dataframes and Processing in Chunks]	|
+| ![Completed][Completed] 		| [Practice Optimizing Dataframes and Processing in Chunks]	|
 | ![Soon][Soon]					| Analyzing Startup Fundraising Deals from Crunchbase		|
 | ![Soon][Soon]					| Analyzing Wikipedia Pages									|
 | ![Soon][Soon]					| Analyzing Stock Prices									|
