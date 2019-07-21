@@ -4,6 +4,7 @@ certificates/
 **/downloads/
 **/.ipynb_checkpoints/
 **/downloaded_projects/
+.vscode/
 
 # files
 **/.DS_Store
