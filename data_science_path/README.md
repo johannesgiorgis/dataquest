@@ -74,7 +74,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]     	| [Exploring Ebay Car Sales Data]                     	|
 | ![Completed][Completed]     	| [Visualizing Earnings Based on College Majors]      	|
 | ![Completed][Completed]     	| [Visualizing the Gender Gap in College Degrees]     	|
-| ![Soon][Soon] 		    	| [Clean and Analyze Employee Exit Surveys] 	    	|
+| ![Soon][Soon] 		    	| Clean and Analyze Employee Exit Surveys 	    		|
 | ![Completed][Completed]     	| [Analyzing NYC High School Data]                    	|
 | ![Completed][Completed]     	| [Star Wars Survey]                                  	|
 | ![Completed][Completed]     	| [Working with Large Datasets]                       	|
@@ -84,7 +84,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]		| [Designing and Creating a Database]                 	|
 | ![Completed][Completed]		| [Investigating Fandango Movie Ratings]				|
 | ![Completed][Completed]		| [Finding the Best Markets to Advertise In]			|
-| ![Soon][Soon]					| [Mobile App for Lottery Addiction]					|
+| ![Soon][Soon]					| Mobile App for Lottery Addiction						|
 | ![Completed][Completed]		| [Winning Jeopardy]									|
 | ![Soon][Soon]					| Predicting Car Prices									|
 | ![Soon][Soon]					| Predicting House Sale Prices							|
