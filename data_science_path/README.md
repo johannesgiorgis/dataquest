@@ -29,12 +29,14 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 
 |         Status              	|                  Course          						|
 |:-----------------------------:|:-----------------------------------------------------:|
-| ![Completed][Completed]     	| Python Programming: Beginner                  		|
-| ![Completed][Completed]     	| Python Programming: Intermediate 						|
+| ![Completed][Completed]     	| Python for Data Science: Beginner                  	|
+| ![Completed][Completed]     	| Python for Data Science: Intermediate 				|
 | ![Completed][Completed]     	| Pandas and NumPy Fundamentals 						|
 | ![Completed][Completed]     	| Exploratory Data Visualization 						|
 | ![Completed][Completed]     	| Storytelling Through Data Visualization 				|
-| ![Completed][Completed]     	| Data Cleaning 										|
+| ![Soon][Soon] 		    	| Data Cleaning and Analysis 							|
+| ![In Progress][In Progress]  	| Data Cleaning in Python: Advanced 					|
+| ![Completed][Completed] 	 	| Data Cleaning Project Walkthrough 					|
 | ![Completed][Completed]     	| Command Line: Beginner 								|
 | ![Completed][Completed]     	| Command Line: Intermediate 							|
 | ![Completed][Completed]     	| Git and Version Control 								|
@@ -44,6 +46,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]		| APIs and Web Scraping 								|
 | ![Completed][Completed]		| Statistics Fundamentals 								|
 | ![Completed][Completed]		| Statistics Intermediate: Averages & Variability		|
+| ![Soon][Soon]					| Probability: Fundamentals							  	|
 | ![Completed][Completed]		| Probability & Statistics in Python: Intermediate  	|
 | ![Soon][Soon]					| Machine Learning Fundamentals 					  	|
 | ![Soon][Soon]					| Calculus for Machine Learning 					  	|
@@ -71,6 +74,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]     	| [Exploring Ebay Car Sales Data]                     	|
 | ![Completed][Completed]     	| [Visualizing Earnings Based on College Majors]      	|
 | ![Completed][Completed]     	| [Visualizing the Gender Gap in College Degrees]     	|
+| ![Soon][Soon] 		    	| [Clean and Analyze Employee Exit Surveys] 	    	|
 | ![Completed][Completed]     	| [Analyzing NYC High School Data]                    	|
 | ![Completed][Completed]     	| [Star Wars Survey]                                  	|
 | ![Completed][Completed]     	| [Working with Large Datasets]                       	|
@@ -80,6 +84,7 @@ This contains my notes and projects as I work though [DataQuest's Data Science P
 | ![Completed][Completed]		| [Designing and Creating a Database]                 	|
 | ![Completed][Completed]		| [Investigating Fandango Movie Ratings]				|
 | ![Completed][Completed]		| [Finding the Best Markets to Advertise In]			|
+| ![Soon][Soon]					| [Mobile App for Lottery Addiction]					|
 | ![Completed][Completed]		| [Winning Jeopardy]									|
 | ![Soon][Soon]					| Predicting Car Prices									|
 | ![Soon][Soon]					| Predicting House Sale Prices							|
