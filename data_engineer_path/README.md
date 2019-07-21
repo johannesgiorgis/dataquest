@@ -27,8 +27,8 @@ This contains my notes and projects as I work though [DataQuest's Data Engineer 
 | ![Completed][Completed]		| Optimizing Postgres Databases					  	|
 | ![In Progress][In Progress] 	| Processing Large Datasets in Pandas 				|
 | ![In Progress][In Progress]	| Optimizing Code Performance On Large Datasets 	|
-| ![Soon][Soon]					| Algorithms and Data Structures					|
-| ![Soon][Soon]					| Recursion and Trees 								|
+| ![In Progress][In Progress]	| Algorithms and Data Structures					|
+| ![In Progress][In Progress]	| Recursion and Trees 								|
 | ![Soon][Soon]					| Building a Data Pipeline 							|
 
 
